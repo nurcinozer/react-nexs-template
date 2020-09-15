@@ -1,0 +1,15 @@
+// font variables
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    font-weight: 700;
+    src: url('../fonts/HelveticaNeue/HelveticaNeue-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    font-weight: 900;
+    src: url('../fonts/HelveticaNeue/HelveticaNeue-Bold.ttf') format('truetype');
+}
+
+$font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
